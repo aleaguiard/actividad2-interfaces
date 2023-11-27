@@ -9,7 +9,7 @@ Realizada por:
 
 **ALBERTO ARROYO SANTOFIMIA**
 
-**Aplicación de contactos con Java Swing**
+## **Aplicación de contactos con Java Swing**
 
 
 ![Imagen](imgReadme/image1.png)
