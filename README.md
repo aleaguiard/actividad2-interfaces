@@ -2,7 +2,12 @@
 Desarrollo de Interfaces.
 
 Realizada por:
-Alberto Arroyo Santofimia
+
+**Grupo 13**
+
+**ALEJANDRO AGUIAR DIAZ**
+
+**ALBERTO ARROYO SANTOFIMIA**
 
 **Aplicación de contactos con Java Swing**
 
