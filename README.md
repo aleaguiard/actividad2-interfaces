@@ -41,3 +41,9 @@ El proyecto consta de tres paquetes:
 
 ### **Ejecución del Proyecto**
 Para ejecutar el proyecto, simplemente ejecuta la clase Main ubicada en el paquete controlador. Esto iniciará la aplicación y mostrará la interfaz de la agenda de contactos.
+
+### **Imágenes del Proyecto**
+
+
+
+
